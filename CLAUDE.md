@@ -17,7 +17,7 @@ A retirement party, an art installation, and a performance.
 ## Git / Remote
 
 - Repo root: `/Users/km/python3/source/rip/`
-- GitHub: TBD
+- GitHub: `https://github.com/kjmacgrub/rip.git`
 - Branch: `main`
 
 ## Notes
