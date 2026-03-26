@@ -1,0 +1,24 @@
+# Large media files — track with Git LFS or keep local
+*.wav
+*.aiff
+*.flac
+*.mp3
+*.mp4
+*.mov
+*.avi
+*.psd
+*.tif
+*.tiff
+*.raw
+*.cr2
+*.nef
+*.dng
+
+# DAW project internals
+*.logicx/
+*.als
+Ableton Project Info/
+
+# OS
+.DS_Store
+Thumbs.db
